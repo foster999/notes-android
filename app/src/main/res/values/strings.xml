@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="snackbar_archived">Note archived</string>
+    <string name="snackbar_deleted">Note permanently deleted</string>
+    <string name="snackbar_undo">Undo</string>
+    <string name="swipe_right_text">Delete</string>
+    <string name="swipe_left_text">Archive</string>
+</resources>
