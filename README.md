@@ -6,7 +6,7 @@ A note taking Android app, developed following [Harvard's CS50 Android Track](ht
 <img src="static/main_view.png" alt="Main view" width="35%"/>
 
 ## Add notes
-<img src="static/add_note.png" alt="Add notes" width="35%"/>
+<img src="static/new_note.png" alt="Add notes" width="35%"/>
 
 ## Delete notes
 <img src="static/delete_note.png" alt="Delete notes" width="35%"/>
